@@ -1,0 +1,6 @@
+{
+  "name": "EventForge - Event Booking System & Academic Blueprint",
+  "description": "Full-fledged Event Booking System with interactive booking, QR e-tickets, seat inventory, admin dashboard, plus a complete 16-step academic project dossier with Java Servlets, JSP, JDBC, and MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
